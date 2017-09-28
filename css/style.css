@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Titillium+Web:900');
+* {
+  margin: 0;
+}
+header {
+  margin: 0;
+  padding: 20px;  
+  text-align: center;
+  background-color: red;
+}
+header h1 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 6em;
+  color: white;
+}
+section {
+  text-align: center;
+}
+section h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 3em;
+  padding: 15px;
+}
+section p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.4em; 
+}
+article {
+  background-color: #ebebeb;
+  border: 1px solid black;
+  margin: 1% 10% 1% 25%; 
+  padding: 5% 5%;
+  width: 500px;
+}
+article h2 {
+  font-size: 1.5em;
+}
+footer {
+  height: 300px;
+  margin: 40px 0 0 0;
+  padding: 20px;
+  background-color: #303030;
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+footer img {
+  padding: 2%;
+}
